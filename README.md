@@ -1,0 +1,1 @@
+﻿A test Xamarin.Forms app to reproduce [PullToRefreshLayout #12](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout/issues/12).
